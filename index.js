@@ -8,7 +8,7 @@
 */
 
 // LETS CREATE A CONFLICT
-let assPain = "THIS DEMO APPARENTLY"
+let buttPain = "THIS DEMO APPARENTLY"
 
 
 let conflicting = "another conflict"
