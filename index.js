@@ -10,6 +10,7 @@
 // LETS CREATE A CONFLICT
 
 let users = document.querySelector('.users')
+let getUsers = document.querySelector('.users')
 
 
 let userInput = document.querySelector('#userText')
