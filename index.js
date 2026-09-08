@@ -11,6 +11,8 @@
 let assPain = "THIS DEMO APPARENTLY"
 
 
+let conflicting = "another conflict"
+
 let users = document.querySelector('.users')
 let getUsers = document.querySelector('.users')
 
