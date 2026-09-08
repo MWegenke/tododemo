@@ -9,6 +9,8 @@
 
 // LETS CREATE A CONFLICT
 
+let conflicting = "another conflict"
+
 let users = document.querySelector('.users')
 let getUsers = document.querySelector('.users')
 
