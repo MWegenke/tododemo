@@ -9,6 +9,9 @@
 
 // LETS CREATE A CONFLICT
 
+let users = document.querySelector('.users')
+
+
 let userInput = document.querySelector('#userText')
 let userSubButton = document.querySelector('#userSubBtn')
 let taskList = document.querySelector('#taskList')
